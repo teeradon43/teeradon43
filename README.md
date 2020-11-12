@@ -1,4 +1,3 @@
 # Teeradon Chanhom (20)
- ```html
-  Computer Engineering KMITL, Thailand (aka. Land of compromise.)
-```
+## Computer Engineering KMITL, Thailand. (aka. Land of compromise.) (Still Studying)
+[Facebook](www.facebook.com/font.kung)
