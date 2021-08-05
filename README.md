@@ -1,6 +1,6 @@
-# Teeradon Chanhom (20)
+# Teeradon Chanhom (21)
   
-Computer Engineering KMITL, Thailand. (aka. Land of compromise.) (Still Studying - Second Year)
+Computer Engineering KMITL, Thailand. (aka. Land of compromise.) (🎓Still Studying - Third Year)
 
 Contact me.
 
