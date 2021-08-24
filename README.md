@@ -5,7 +5,7 @@ Computer Engineering KMITL, Thailand. (aka. Land of compromise.) (🎓Still Stud
 Contact me.
 
 [Facebook](https://www.facebook.com/font.kung)
-[LinkedIn](https://www.linkedin.com/teeradonch43)
+[LinkedIn](https://www.linkedin.com/in/teeradonch43)
 
 or teeradonch43@gmail.com
 
