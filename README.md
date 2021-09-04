@@ -1,4 +1,4 @@
-![Hello Everyone, My name is Teeradon Chanhom. I'm 21 yo and currently studying Computer Engineering Major.](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+![Hello Everyone, My name is Teeradon Chanhom. I'm 21 yo and currently studying Computer Engineering Major.](https://github.com/teeradon43/teeradon43/raw/main/banner.gif)
 
 Contact me.
 
