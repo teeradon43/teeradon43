@@ -1,6 +1,4 @@
-# Teeradon Chanhom (21)
-  
-Computer Engineering KMITL, Thailand. (aka. Land of compromise.) (🎓Still Studying - Third Year)
+![Hello Everyone, My name is Teeradon Chanhom. I'm 21 yo and currently studying Computer Engineering Major.](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 
 Contact me.
 
