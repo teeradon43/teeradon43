@@ -5,8 +5,11 @@
 
 ### Contact me.
 
+Teeradon Chanhom <<b><i>Font</i></b>> from Thailand :thailand:
+
 [![Facebook][1.1]][1]
 [![LinkedIn][2.1]][2]
+[![Instagram][3.1]][3]
 
 or teeradonch43@gmail.com
 
@@ -16,6 +19,7 @@ or teeradonch43@gmail.com
 
 [1.1]: https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white (facebook img shield )
 [2.1]: 	https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white (LinkedIn img shield)
+[3.1]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white (instagram img shield)
 
 
 <!-- links to your social media accounts -->
@@ -23,4 +27,5 @@ or teeradonch43@gmail.com
 
 [1]: http://www.facebook.com/font.kung
 [2]: https://www.linkedin.com/in/teeradonch43/
+[3]: https://www.instagram.com/font.angsananew
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
