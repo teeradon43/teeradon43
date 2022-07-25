@@ -1,4 +1,4 @@
-![Hello Everyone, My name is Teeradon Chanhom. I'm 21 yo and currently studying Computer Engineering Major.](https://github.com/teeradon43/teeradon43/raw/main/banner.gif)
+<!-- ![Hello Everyone, My name is Teeradon Chanhom. I'm 21 yo and currently studying Computer Engineering Major.](https://github.com/teeradon43/teeradon43/raw/main/banner.gif) -->
 <!-- Banner created from Adobe After Effects -->
 ![Teeradon's GitHub stats](https://github-readme-stats.vercel.app/api?username=teeradon43&count_private=true&show_icons=true&icon_color=F5E050&text_color=FDFDFD&title_color=F7E252&bg_color=10,F23D92,CA3AB0,9138A7,69208E)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teeradon43&layout=compact&exclude_repo=HTML-CSS,htmlButJs,Confusion,Firebase-And-React,Angular-conFusion&text_color=FDFDFD&title_color=F7E252&bg_color=10,69208E,200030)](https://github.com/anuraghazra/github-readme-stats)
